@@ -23,4 +23,6 @@ file system.
 
 ## How To contribute
 
+### Copyright
 
+2019 Git.Training.
